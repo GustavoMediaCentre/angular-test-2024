@@ -12,10 +12,10 @@ Como usuário gostaria de uma view em que pudesse ver uma lista de usuários. Na
 - Está pronto quando, ao clicar em qualquer ação entre adicionar, editar ou deletar usuário, surgir um alert "Ação {ação} clicada"
 
 ## Plus
-Caso todos os itens acima já tenham sido resolvidos será considerado um plus caso cumpra os quesitos abaixo
-- Está pronto quando, ao clicar "more" as demais informações a respeito do usuário aparecer abaixo dele empurrando as demais linhas de usuário para baixo
-- Ao clicar deletar, um warning surgir perguntando se deseja mesmo deletar e confirmando enviar a requisição DELETE para o endpoint da API e tratando a resposta para dar o feedback ao usuário
-- Modal de cadastro e edição de usuário, enviando ao endpoint da API via POST e tratando a resposta
+Caso todos os itens acima já tenham sido resolvidos será considerado um plus caso cumpra os quesitos abaixo.
+- Está pronto quando, ao clicar "more" as demais informações a respeito do usuário aparecer abaixo dele empurrando as demais linhas de usuário para baixo.
+- Ao clicar deletar, um warning surgir perguntando se deseja mesmo deletar e confirmando enviar a requisição DELETE para o endpoint da API e tratando a resposta para dar o feedback ao usuário.
+- Modal de cadastro e edição de usuário, enviando ao endpoint da API via POST e tratando a resposta.
 
 ## Layout sugerido
 ![Layout Sugerido](https://github.com/MediaCentre-BR/angular-test-052024/blob/main/src/assets/images/user-management.png?raw=true)
